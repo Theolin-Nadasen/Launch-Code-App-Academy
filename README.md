@@ -30,6 +30,18 @@ You'll get hands-on practice with **HTML**, **CSS**, and **JavaScript** — the 
 
 ---
 
+## 🔄 Always Pull Before You Start Working
+
+Before making any changes, **make sure your files are up to date** by pulling the latest version from GitHub:
+
+```bash
+git pull
+```
+
+This helps avoid conflicts and ensures you're working on the most recent version of the project.
+
+---
+
 ## ✏️ What to Do
 
 Inside the code, you'll see **TODO comments** like this:
