@@ -19,7 +19,7 @@ You'll get hands-on practice with **HTML**, **CSS**, and **JavaScript** — the 
    Click the green `Code` button and select **Download ZIP**, or use this command if you have Git installed:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Theolin-Nadasen/Launch-Code-App-Academy.git
    ```
 
 2. **Open in VS Code (or any editor)**  
