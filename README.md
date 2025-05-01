@@ -47,6 +47,36 @@ This helps avoid conflicts and ensures you're working on the most recent version
 
 ---
 
+
+## 💾 Save Your Changes (Git Add, Commit, Push)
+
+Once you've made some changes and you're ready to save and upload them to your GitHub:
+
+1. **Stage your changes**  
+   This adds your changes to the list of things to save:
+
+   ```bash
+   git add .
+   ```
+
+2. **Commit your changes**  
+   This creates a snapshot with a short message:
+
+   ```bash
+   git commit -m "Added my changes"
+   ```
+
+3. **Push to your GitHub repo**  
+   This uploads your changes:
+
+   ```bash
+   git push
+   ```
+
+> 🧠 Tip: Do this every time you finish a new task or section. It helps keep your work backed up and organized!
+
+---
+
 ## ✏️ What to Do
 
 Inside the code, you'll see **TODO comments** like this:
