@@ -15,17 +15,21 @@ You'll get hands-on practice with **HTML**, **CSS**, and **JavaScript** — the 
 
 ## 🛠️ How to Use
 
-1. **Download or Clone the Repo**  
-   Click the green `Code` button and select **Download ZIP**, or use this command if you have Git installed:
+1. **Fork This Repo**  
+   At the top right of this page, click the **Fork** button to create your own copy of the project on your GitHub account.
+
+2. **Clone Your Forked Repo**  
+   Go to your version of the repo (under your GitHub profile) and click the green **Code** button, then copy the URL.  
+   Use this command in your terminal:
 
    ```bash
-   git clone https://github.com/Theolin-Nadasen/Launch-Code-App-Academy.git
+   git clone https://github.com/your-username/your-repo-name.git
    ```
 
-2. **Open in VS Code (or any editor)**  
+3. **Open in VS Code (or any editor)**  
    Make sure all three files are in the same folder.
 
-3. **Open `index.html` in your browser**  
+4. **Open `index.html` in your browser**  
    Right-click and choose "Open with Live Server" (if installed) or just double-click the file.
 
 ---
@@ -39,6 +43,7 @@ git pull
 ```
 
 This helps avoid conflicts and ensures you're working on the most recent version of the project.
+> 💡 Advanced: Later on, you can learn how to connect your fork to the original repo to pull updates from the source.
 
 ---
 
