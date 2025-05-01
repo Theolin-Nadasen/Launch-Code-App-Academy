@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 2rem;
+    background-color: #f0f0f0;
+  }
+  
+  .box {
+    background-color: lightblue;
+    padding: 1rem;
+    margin: 1rem auto;
+    width: 300px;
+    border-radius: 8px;
+  }
+  
+  /* TODO: Change the background color of .box */
+  /* TODO: Add some hover effect to the button */
+  
+  button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+  }
